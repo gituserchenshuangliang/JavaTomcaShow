@@ -9,7 +9,7 @@
 	<name>JavaTomcaShow</name>
 	
 	<properties>
-		<tomcat.version>9.0.19</tomcat.version>
+		<tomcat.version>10.0.4</tomcat.version>
 	</properties>
 
 	<dependencies>
